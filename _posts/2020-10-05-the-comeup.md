@@ -14,7 +14,6 @@ We must prepare before we can serve.
 We must serve before we can lead."
 -William Arthur Ward
 
-### Hola Señor Presidente!!!! Meimei, ‘Ma, Em, Freddie, Majo!!
 
 Wow! Que _loca_ la vida!!
 No puedo creerlo... Mi 200lb bruh girl favorita esta llegando a ser un hombre real 😂 
