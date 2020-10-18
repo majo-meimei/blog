@@ -18,8 +18,8 @@ email: emmaaelin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   just a bruh girl becoming a man.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://boppintothe.top" # the base hostname & protocol for your site, e.g. http://example.com
-icon: /assets/images/icon-512.png
+url: "https://boppintothe.top" # the base hostname & protocol for your site, e.g. http://example.com
+icon: /assets/images/duke.ico
 # twitter_username: patdryburgh
 # github_username:  patdryburgh
 
