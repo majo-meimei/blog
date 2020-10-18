@@ -4,6 +4,10 @@ title: About
 ---
 
 Undoubtably one of the great minds of our time, Freddie Lin challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+<audio controls autoplay>
+  <source src="{{ site.url }}/assets/audio/pocket_boy.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 <figure>
   <img alt="Christopher Hitchens" src="{{ site.url }}/assets/images/test.jpg"/>
