@@ -16,13 +16,16 @@ Undoubtably one of the great minds of our time, Freddie Lin challenged his reade
   </figcaption>
 </figure>
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/1.jpg">  |  <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/2.jpg">|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/3.jpg">|
-|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/4.jpg">  |  <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/5.jpg">|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/6.jpg">|
-|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/7.jpg">  |  <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/8.png">|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/9.png">|
-|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/10.jpg">  |  <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/11.jpg">|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/12.png">|
-|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/13.jpg">  |  <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/14.png">|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/15.jpg">|
+| | |
+|:-------------------------:|:-------------------------:|
+|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/1.jpg">  |  <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/2.jpg">|
+|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/3.jpg"> | <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/4.jpg">|
+|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/5.jpg">|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/6.jpg">|
+|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/7.jpg">  |  <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/8.jpg">|
+|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/9.jpg">  |  <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/10.jpg">|
+|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/11.jpg">  |  <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/12.jpg">|
+|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/13.jpg">  |  <img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/14.jpg">|
+|<img width="300" alt="screen shot 2017-08-07 at 12 18 15 pm" src="{{ site.url }}/assets/images/majo/15.jpg">|
 
 <figure>
   <img alt="Freddie Lin" src="{{ site.url }}/assets/images/test.jpg"/>
