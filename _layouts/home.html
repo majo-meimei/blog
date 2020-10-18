@@ -23,7 +23,12 @@ layout: default
 {% endif %}
 
 <main class="home" id="main" role="main" aria-label="Content">
-
+  <figure>
+    <img alt="Smile..." src="{{ site.url }}/assets/images/smile.gif"/>
+    <figcaption>
+      Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
+    </figcaption>
+  </figure>
   <h1 class="content-title divided">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
