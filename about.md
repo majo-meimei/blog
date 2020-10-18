@@ -3,14 +3,22 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+Undoubtably one of the great minds of our time, Freddie Lin challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
 
 <figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img alt="Christopher Hitchens" src="{{ site.url }}/assets/images/test.jpg"/>
   <figcaption>
     Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
   </figcaption>
 </figure>
+
+<figure>
+  <img alt="Christopher Hitchens" src="https://boppintothe.top/assets/images/test.jpg"/>
+  <figcaption>
+    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
+  </figcaption>
+</figure>
+
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
 
