@@ -4,6 +4,7 @@ layout: default
 
 {% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
   {% include menu.html %}
+  {% include open-embed.html %}
 {% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
   {% include back-link.html %}
 {% else %}
@@ -29,6 +30,10 @@ layout: default
       Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
     </figcaption>
   </figure>
+  <audio controls autoplay>
+    <source src="{{ site.url }}/assets/audio/pocket_boy.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
   <h1 class="content-title divided">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
