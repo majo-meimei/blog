@@ -5,9 +5,7 @@ category: tito
 layout: post
 ---
 
-# Uno
-## Dos
-### Tres
+### Hola Señor Presidente!!!! Meimei, ‘Ma, Em, Freddie, Majo!!
 
 >"We must be silent before we can listen.
 We must listen before we can learn.
@@ -16,61 +14,42 @@ We must prepare before we can serve.
 We must serve before we can lead."
 -William Arthur Ward
 
-Hola Señor Presidente!!!! Meimei, ‘Ma, Em, Freddie, Majo!!
+### Hola Señor Presidente!!!! Meimei, ‘Ma, Em, Freddie, Majo!!
 
-Wow! Que loca esta vida!!
-No puedo creerlo... Mi bruh girl favorita esta llegando a ser un hombre real 😂 
+Wow! Que _loca_ la vida!!
+No puedo creerlo... Mi 200lb bruh girl favorita esta llegando a ser un hombre real 😂 
 
-Ay caramba mija.... donde puedo encontrar contigo... tengo demasiadas cosas para decir.
+Ay caramba mijo.... donde debo empezar contigo... tengo demasiadas cosas para decir.
 
 Para empezar, eres el Rey de vibraciones buenisimas!
-No podia sobrevivir sin tus listas de música, sin tus canciones todos días, y tus bromas jajaja
+No podia sobrevivir sin tus listas de música, sin tus canciones todos días, y tus bromas jajaja.
 
+Gracias por pasar tiempo conmigo-- cubb ejercicios, spikeball, joe y jugo, y RAKs.
+Siempre me alegra para verte y siempre me haces reír 🤣.
+Me encanta que tus pantalones siempren tiene mas bolsillos para chicos. 
+
+
+*Para ser honesto...*
 A mi me gusta tus pasiones y acciones para ayudar y servir a los demás. 
 A ti no te importa los títulos y cosas superficiales... a ti te importa servicio!
 
 Y me inspiras con tu dedicación y la manera que servir como un líder de humilde y cariño.
 
+Estoy agradecido que somos pocket boys de Dios juntos jajaja.
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-```imagen```
-
-`codigo`
-
-![]({{ site.url }}/assets/images/test.jpg)
-
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
-
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+Estoy de acuerdo... somos las luces del mundo y sería *una pena* (darn shame) si no brillaríamos.
+El mundo nos necesita!
 
 
+Sería un gran placer y bendición para tenerte en mi equipo en Guatemala o Latinoamerica o cualquier lugar y ser la luz en tinieblas.
+
+Eres una de mis dos primas favoritas gegege y espero que podamos mantenernos en contacto cuando seas una presidente y jefe famoso.
 
 
+Yo sé que probablamente estas usando Google Translate para entenderme  pero tengo confianza que vas a mejorar tu nivel de español 🧠
 
+Nos vemos pronto,
 
-Three or more... HYPHENS ASTERISKS OR UNDERSCORES
-
----
 
 
 
