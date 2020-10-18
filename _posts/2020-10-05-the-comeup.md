@@ -5,14 +5,32 @@ category: tito
 layout: post
 ---
 
-# Hola ma
+# Uno
+## Dos
+### Tres
 
->We must be silent before we can listen.
+>"We must be silent before we can listen.
 We must listen before we can learn.
 We must learn before we can prepare.
 We must prepare before we can serve.
-We must serve before we can lead.
-- William Arthur Ward
+We must serve before we can lead."
+-William Arthur Ward
+
+Hola Señor Presidente!!!! Meimei, ‘Ma, Em, Freddie, Majo!!
+
+Wow! Que loca esta vida!!
+No puedo creerlo... Mi bruh girl favorita esta llegando a ser un hombre real 😂 
+
+Ay caramba mija.... donde puedo encontrar contigo... tengo demasiadas cosas para decir.
+
+Para empezar, eres el Rey de vibraciones buenisimas!
+No podia sobrevivir sin tus listas de música, sin tus canciones todos días, y tus bromas jajaja
+
+A mi me gusta tus pasiones y acciones para ayudar y servir a los demás. 
+A ti no te importa los títulos y cosas superficiales... a ti te importa servicio!
+
+Y me inspiras con tu dedicación y la manera que servir como un líder de humilde y cariño.
+
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
@@ -45,38 +63,20 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 - Or minuses
 + Or pluses
 
-Colons can be used to align columns.
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 
-Three or more...
+
+Three or more... HYPHENS ASTERISKS OR UNDERSCORES
 
 ---
 
-Hyphens
-
-***
-
-Asterisks
-
-___
-
-Underscores
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Dwrti7PGqtY/0.jpg)](http://www.youtube.com/watch?v=Dwrti7PGqtY)
+<audio controls autoplay loop>
+  <source src="{{ site.url }}/assets/audio/child_of_love.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+[![Feliz Cumple](http://img.youtube.com/vi/C8ul-Q9dFvU/0.jpg)](http://www.youtube.com/watch?v=C8ul-Q9dFvU)
