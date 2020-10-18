@@ -25,7 +25,9 @@ No podia sobrevivir sin tus listas de música, sin tus canciones todos días, y 
 
 Gracias por pasar tiempo conmigo-- cubb ejercicios, spikeball, joe y jugo, y RAKs.
 Siempre me alegra para verte y siempre me haces reír 🤣.
-Me encanta que tus pantalones siempren tiene mas bolsillos para chicos. 
+Me encanta que tus pantalones siempren tiene mas bolsillos para chicos.
+Gracias por permitirme conocer tus amigos...
+`haka 'ma`, `gemma`, `happy 'ma`, `baile 'ma`.
 
 
 *Para ser honesto...*
@@ -49,6 +51,8 @@ Yo sé que probablamente estas usando Google Translate para entenderme  pero ten
 
 Nos vemos pronto,
 
+
+P.S. Espero que el punto termine pronto :) 
 
 
 
