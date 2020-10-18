@@ -10,7 +10,7 @@ Undoubtably one of the great minds of our time, Freddie Lin challenged his reade
 </audio>
 
 <figure>
-  <img alt="Freddie Lin" src="{{ site.url }}/assets/images/majo/bruh_girl.jpg"/>
+  <img alt="Freddie Lin" src="{{ site.url }}/assets/images/majo/bruh.jpg"/>
   <figcaption>
     Photo by Majo
   </figcaption>
