@@ -4,7 +4,6 @@ layout: default
 
 {% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
   {% include menu.html %}
-  {% include open-embed.html %}
 {% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
   {% include back-link.html %}
 {% else %}
@@ -24,6 +23,7 @@ layout: default
 {% endif %}
 
 <main class="home" id="main" role="main" aria-label="Content">
+  {% include open-embed.html %}
   <figure>
     <img alt="Smiles..." src="{{ site.url }}/assets/images/smiles.gif"/>
     <figcaption>
@@ -36,7 +36,7 @@ layout: default
   </audio>
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/JCvKzyj2Tu8?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
+
   <h1 class="content-title divided">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
