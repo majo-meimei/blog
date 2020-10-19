@@ -5,7 +5,7 @@ author: "Ma"
 categories: opinion
 ---
 
-I will count it all joy -- even when I don't want to  
+I will count it all joy -- even when it's hard to  
 I will count it all joy -- even when I don't want to  
 I will count it all joy  
 
